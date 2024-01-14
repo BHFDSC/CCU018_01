@@ -1,12 +1,7 @@
-# Association of COVID-19 infection and vaccination with cardiovascular-related adverse pregnancy outcomes: a population-wide cohort study of 885,156 pregnant women in England and Wales
+# Association of COVID-19 infection and vaccination with adverse pregnancy outcomes: A Population-Wide Cohort Study of 865,654 pregnant women in England and Wales
 
 ## Project description
-
-During pregnancy, physiological changes that affect cardiovascular and respiratory systems, along with immunologic alterations, put pregnant women at increased risk of clinically important cardiovascular-related adverse pregnancy outcomes, including gestational diabetes, gestational hypertensive disorders, intrauterine growth restriction and preterm birth1.
-
-Studies have suggested that additional viremia and inflammatory phases of respiratory virus-related infections such as H1N1 influenza, SARS-2003, and more recently SARS-CoV-2, may restrict maternal adaptation by inducing a pro-coagulation stage affecting uteroplacental circulation and fetal  growth, and in turn, further increase the risk of adverse pregnancy outcomes. However, few studies have quantified the risks of rare outcomes such as stillbirth and venous thrombotic events, or explored how these risks differ by time since infection, pregnancy trimester, or secular time period (e.g. SARS-CoV-2 variants and vaccination era). In addition, there is the need for robust evidence to exclude the possible association between COVID‐19 vaccines and adverse pregnancy outcomes during pregnancy.
-
-To address these gaps and further advance our understanding of the role played by SARS-CoV-2 infection on adverse pregnancy outcomes in a beyond pandemic era, we leveraged linked electronic health record (EHR) data sources from England and Wales to build a population-wide cohort of women with a record of delivery/birth during the COVID-19 pandemic period. We compared the incidence of cardiovascular-related adverse pregnancy outcomes in women with and without COVID-19 diagnosis and vaccination during pregnancy, accounting for multiple potential confounding factors.
+We leveraged population-wide linked electronic health record (EHR) data sources from England and Wales to build the largest population-wide pregnancy cohort of women with a record of birth during the COVID-19 pandemic period. In our study we compared the incidence of adverse pregnancy outcomes in women with and without COVID-19 diagnosis and vaccination during pregnancy stages, accounting for a wide range of potential confounding factors. Our aim was to provide quantitative evidence for recommendations concerning antenatal care of women during their pregnancy and their vaccination against current and future COVID-19 outbreaks.
 
 ## How to cite this work
 > Citation goes here
