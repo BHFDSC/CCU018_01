@@ -6,7 +6,7 @@
 We leveraged population-wide linked electronic health record (EHR) data sources from England and Wales to build the largest population-wide pregnancy cohort of women with a record of birth during the COVID-19 pandemic period. In our study we compared the incidence of adverse pregnancy outcomes in women with and without COVID-19 diagnosis and vaccination during pregnancy stages, accounting for a wide range of potential confounding factors. Our aim was to provide quantitative evidence for recommendations concerning antenatal care of women during their pregnancy and their vaccination against current and future COVID-19 outbreaks.
 
 ## How to cite this work
-> Citation to follow. DOI: https://doi.org/10.1016/j.lanepe.2024.101037
+> Raffetti E, Bolton T, Nolan J, et al. COVID-19 diagnosis, vaccination during pregnancy, and adverse pregnancy outcomes of 865,654 women in England and Wales: a population-based cohort study. Lancet Reg Health Eur. 2024;45:101037. Published 2024 Aug 22. DOI: https://doi.org/10.1016/j.lanepe.2024.101037
 
 ## Contents
 
